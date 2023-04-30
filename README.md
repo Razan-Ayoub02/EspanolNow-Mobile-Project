@@ -1,2 +1,2 @@
 # EspanolNow-Mobile-Project
-A simple mobile application for a Spanish learning app called Espanol Now
+A simple mobile application for a Spanish learning app called Espanol Now, developed using Ionic.
